@@ -67,6 +67,7 @@ header {
 
 .btn-primary {
   background-color: #ff4d4d; /* Red button */
+  border: none;
   color: #111111;
   font-weight: 500;
   font-size: 18px;
@@ -77,6 +78,7 @@ header {
 .btn-primary:hover {
   background-color: #ff8080; /* Lighter red hover effect */
   color: #111111;
+  border-color: #ff4d4d;
 }
 
 .bg-overlay {
